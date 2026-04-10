@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+
+# Build outputs (sécurité supplémentaire)
+**/target/
+**/node_modules/
+**/dist/
