@@ -14,3 +14,12 @@ Thumbs.db
 **/target/
 **/node_modules/
 **/dist/
+
+# Claude
+CLAUDE.md
+**/.claude/
+**/CLAUDE.md
+**/docs/
+
+# Environment variables
+.env
